@@ -13,3 +13,41 @@ h2 {
   font-size: 64px;
   font-family: "Playfair Display";
 }
+
+h4 {
+  color: white;
+  font-family: "Playfair Display";
+  font-size: 30px;
+}
+
+.homepage-image {
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px grey;
+}
+
+.homepage {
+  font-family: "Playfair Display";
+}
+
+.about {
+  color: white;
+}
+
+.about:hover {
+  color: rgb(255, 235, 210);
+}
+
+.contact {
+  color: white;
+}
+
+.contact:hover {
+  color: rgb(255, 235, 210);
+}
+.projects {
+  color: white;
+}
+
+.projects:hover {
+  color: rgb(255, 235, 210);
+}
