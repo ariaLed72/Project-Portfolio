@@ -1,3 +1,8 @@
+@media (max-width: 600px) {
+  .container {
+  }
+}
+
 body {
   background: rgb(0, 0, 0);
 }
@@ -6,27 +11,45 @@ h1 {
   font-size: 64px;
   color: white;
   font-family: "Roboto";
+  padding: 5px;
 }
 
 h2 {
   color: white;
   font-size: 64px;
   font-family: "Playfair Display";
+  padding: 5px;
+  padding-top: 25px;
 }
 
 h4 {
   color: white;
   font-family: "Playfair Display";
   font-size: 30px;
+  padding: 5px;
+}
+
+.hero {
+  padding: 30px;
+  text-align: center;
 }
 
 .homepage-image {
   border-radius: 10px;
-  box-shadow: 3px 3px 5px grey;
+  border: 2px solid lightgrey;
+  text-align: center;
+}
+
+.container {
+  padding: 30px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
 }
 
 .homepage {
   font-family: "Playfair Display";
+  text-align: right;
 }
 
 .about {
