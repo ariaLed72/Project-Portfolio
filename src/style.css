@@ -1,17 +1,17 @@
-@media (max-width: 600px) {
-  .container {
-  }
-}
-
 body {
   background: rgb(0, 0, 0);
+}
+
+nav-link {
+  font-family: "Playfair Display";
+  color: white;
 }
 
 h1 {
   font-size: 64px;
   color: white;
   font-family: "Roboto";
-  padding: 5px;
+  padding: 10px;
 }
 
 h2 {
@@ -25,12 +25,12 @@ h2 {
 h4 {
   color: white;
   font-family: "Playfair Display";
-  font-size: 30px;
+  font-size: 25px;
   padding: 5px;
 }
 
 .hero {
-  padding: 30px;
+  padding: 55px;
   text-align: center;
 }
 
