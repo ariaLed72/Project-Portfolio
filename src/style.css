@@ -29,6 +29,10 @@ h4 {
   padding: 5px;
 }
 
+.nav-link:hover {
+  color: rgb(255, 235, 210);
+}
+
 .hero {
   padding: 55px;
   text-align: center;
@@ -73,4 +77,30 @@ h4 {
 
 .projects:hover {
   color: rgb(255, 235, 210);
+}
+
+.about-title {
+  margin: 80px;
+  margin-bottom: -20px;
+  font-family: "playfair display";
+  text-align: center;
+}
+
+.about-image {
+  border-radius: 10px;
+  border: 2px solid lightgrey;
+  text-align: center;
+}
+
+.about-info {
+  font-family: "roboto";
+  color: white;
+  text-align: center;
+}
+
+.about-page-bottom {
+  padding: 30px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
 }
