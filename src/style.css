@@ -92,6 +92,9 @@ h4 {
   text-align: center;
 }
 
+.about-container {
+}
+
 .about-info {
   font-family: "roboto";
   color: white;
@@ -100,7 +103,9 @@ h4 {
 
 .about-page-bottom {
   padding: 30px;
-  margin: auto;
+  margin-top: 40px;
   display: flex;
   justify-content: center;
+  font-family: "Playfair Display";
+  text-align: center;
 }
