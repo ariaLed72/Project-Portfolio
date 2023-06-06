@@ -35,6 +35,10 @@ h5 {
   text-align: center;
 }
 
+hr {
+  color: white;
+}
+
 footer {
   font-family: "Roboto";
   color: white;
@@ -122,17 +126,17 @@ footer {
 }
 
 .project-header {
-  margin: 80px;
-  margin-bottom: -20px;
+  margin-top: 85px;
   text-align: center;
   font-family: "Playfair Display";
+  display: block;
 }
 
 .project-image {
   border-radius: 10px;
   border: 2px solid lightgrey;
   text-align: center;
-  margin: 30px;
+  display: grid;
 }
 
 .project-link {
